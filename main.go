@@ -14,7 +14,7 @@ func main() {
 	array =Algorithm.OddEven(array)
 	fmt.Println(array)
 
-	/*
+
 	fmt.Println("两个数组合并")
 	arr01 :=[]int{1,3,4,6,8}
 	arr02 :=[]int{2,5,7,0,9}
@@ -22,7 +22,7 @@ func main() {
 	arr03 := Algorithm.GroupArray(arr01,arr02)
 
 	fmt.Println(arr03)
-	*/
+
 
 	//快速排序
 	fmt.Println("快速排序~")

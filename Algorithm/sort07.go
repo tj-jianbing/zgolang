@@ -1,5 +1,6 @@
 package Algorithm
 
+import "fmt"
 
 func QuickSort(values []int, left int, right int) {
 	if left < right {
@@ -30,4 +31,17 @@ func QuickSort(values []int, left int, right int) {
 		QuickSort(values, left, i-1)
 		QuickSort(values, i+1, right)
 	}
+}
+
+func GroupArray (arr01 []int,arr02 []int) ([]int){
+	var arr03 =make([]int,len(arr01)+len(arr02))
+	for i,v := range arr01 {
+		arr03[i]=v
+	}
+	for i1,v1 := range  arr02 {
+		arr03[len(arr01)+i1]=v1
+	}
+	fmt.Println(arr03)
+	QuickSort(arr03,0,len(arr03)-1)
+	return  arr03
 }
