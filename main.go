@@ -3,8 +3,19 @@ package main
 import (
 	"fmt"
 	"zgolang/Algorithm"
+	"zgolang/Tgo"
 )
 
+/*
+type human struct{
+	Sex int
+}
+type person struct{
+	human
+	Name string
+	Age int
+}
+*/
 
 func main() {
 
@@ -23,10 +34,21 @@ func main() {
 
 	fmt.Println(arr03)
 
+	fmt.Println(Tgo.Add(2,3))
 
 	//快速排序
 	fmt.Println("快速排序~")
 	Algorithm.QuickSort(array,0,len(array)-1)
 	fmt.Println(array)
+
+	str_person := Tgo.Person{
+		Name:"zhangsan",
+		Age:32,
+		Human:Tgo.Human{
+			1,
+		},
+
+	}
+	fmt.Println(str_person)
 
 }
