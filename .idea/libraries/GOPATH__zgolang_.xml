@@ -1,0 +1,46 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;zgolang&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../ideatest" />
+      <root url="file://$PROJECT_DIR$/../quickstart" />
+      <root url="file://$PROJECT_DIR$/../test" />
+      <root url="file://$PROJECT_DIR$/../.idea" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../golangtest" />
+      <root url="file://$PROJECT_DIR$/../softradius_system-master" />
+      <root url="file://$PROJECT_DIR$/../scheduler" />
+      <root url="file://$PROJECT_DIR$/../sitepointgoapp" />
+      <root url="file://$PROJECT_DIR$/../go-email" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../mystudy" />
+      <root url="file://$PROJECT_DIR$/../goweb" />
+      <root url="file://$PROJECT_DIR$/../google.golang.org" />
+      <root url="file://$PROJECT_DIR$/../testgithub" />
+      <root url="file://$PROJECT_DIR$/../sourcegraph.com" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../ideatest" />
+      <root url="file://$PROJECT_DIR$/../quickstart" />
+      <root url="file://$PROJECT_DIR$/../test" />
+      <root url="file://$PROJECT_DIR$/../.idea" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../golangtest" />
+      <root url="file://$PROJECT_DIR$/../softradius_system-master" />
+      <root url="file://$PROJECT_DIR$/../scheduler" />
+      <root url="file://$PROJECT_DIR$/../sitepointgoapp" />
+      <root url="file://$PROJECT_DIR$/../go-email" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../mystudy" />
+      <root url="file://$PROJECT_DIR$/../goweb" />
+      <root url="file://$PROJECT_DIR$/../google.golang.org" />
+      <root url="file://$PROJECT_DIR$/../testgithub" />
+      <root url="file://$PROJECT_DIR$/../sourcegraph.com" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
