@@ -38,6 +38,7 @@ func main() {
 	fmt.Println(Tgo.Add(2,3))
 
 	//快速排序test
+	//添加一个
 	fmt.Println("快速排序~")
 	Algorithm.QuickSort(array,0,len(array)-1)
 	fmt.Println(array)
